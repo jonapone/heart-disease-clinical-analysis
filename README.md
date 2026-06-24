@@ -1,2 +1,2 @@
 # heart-disease-clinical-analysis
-analysis of heart disease data - data wrangling, cleaning and analysis of health data. A statistical analysis of clean data
+Data wrangling, cleaning and statistical analysis of clean health data
